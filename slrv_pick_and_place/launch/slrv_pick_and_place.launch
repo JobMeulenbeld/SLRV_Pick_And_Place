@@ -1,0 +1,3 @@
+<launch>
+  <node name="slrv_pick_and_place" pkg="slrv_pick_and_place" type="slrv_pick_and_place" output="screen"/>
+</launch>
